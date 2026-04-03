@@ -30,7 +30,7 @@ Este projeto é um dashboard interativo desenvolvido em **Streamlit** para anál
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Google Colab**: Ferramenta usada para analise do DataFrame
+- **Google Colab**: Ferramenta usada para análise do DataFrame
 - **Python**: Linguagem principal
 - **Streamlit**: Framework para criação do dashboard
 - **Pandas**: Manipulação e tratamento dos dados
